@@ -113,6 +113,6 @@ As an individual academic project, I worked on understanding the project concept
 
   ## 📄 Published Conference Paper
 
-[View Published Conference Paper](Sem%202-Conference%20paper%20-%20Subash%20M.pdf)
+[View Published Conference Paper](sem2-conference-paper-subash-m.pdf)
 
 ---
