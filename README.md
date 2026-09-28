@@ -4,10 +4,6 @@
 
 The Speed Breaker Power Generator is an academic mini project that explores the conversion of mechanical energy produced by vehicles passing over a speed breaker into electrical energy. The project demonstrates the concept of energy harvesting using a mechanical arrangement and an electrical generator.
 
-## 📸 Project Prototype
-
-![Speed Breaker Power Generator Prototype](sem2%20project%20prototype.jpeg)
-
 ## 🎯 Objective
 
 * To study the conversion of mechanical energy into electrical energy.
@@ -73,6 +69,10 @@ Electrical Output
 
 The final prototype demonstrates the concept of harvesting mechanical energy from vehicle movement through a speed breaker mechanism. Photographs and detailed construction information can be added to this section to document the implemented hardware.
 
+## 📸 Project Prototype
+
+![Speed Breaker Power Generator Prototype](sem2%20project%20prototype.jpeg)
+
 ## 📈 Results
 
 The project was developed to explore the feasibility of converting mechanical movement into electrical energy. Actual output voltage, current, power measurements, and experimental observations should be included based on the recorded prototype results.
@@ -116,5 +116,3 @@ As an individual academic project, I worked on understanding the project concept
 [View Published Conference Paper](Sem%202-Conference%20paper%20-%20Subash%20M.pdf)
 
 ---
-
-⭐ *This project represents my academic exploration of energy harvesting, electrical energy conversion, and sustainable engineering concepts.*
