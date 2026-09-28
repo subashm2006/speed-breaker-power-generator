@@ -11,10 +11,6 @@ The Speed Breaker Power Generator is an academic mini project that explores the 
 * To understand the working principle of a generator.
 * To investigate alternative methods of generating electrical energy.
 
-## 💡 Motivation
-
-A significant amount of mechanical energy is produced when vehicles move over speed breakers. This project explores the possibility of utilizing a portion of that energy for electrical generation and creating awareness about energy recovery and sustainable engineering solutions.
-
 ## ⚙️ Working Principle
 
 1. When a vehicle passes over the speed breaker, mechanical movement is produced.
@@ -52,18 +48,6 @@ The components used in the final prototype should be documented according to the
 Mechanical Energy → Electrical Energy
 
 The project demonstrates the principle of electromagnetic induction, in which relative motion between a conductor and a magnetic field produces an electrical voltage.
-
-## 📊 Block Diagram
-
-Vehicle Movement
-↓
-Speed Breaker Mechanism
-↓
-Mechanical Energy Transfer
-↓
-Electrical Generator
-↓
-Electrical Output
 
 ## 🔬 Final Prototype
 
